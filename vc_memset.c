@@ -1,5 +1,4 @@
-#include "pch.h"
-#include "vc_memset.h"
+
 #include <stdio.h>
 
 void *vc_memset(void *s, int c, size_t n) {

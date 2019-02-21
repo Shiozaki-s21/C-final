@@ -1,8 +1,4 @@
-/**
- * File              : vc_strcat.c
- * Author            : Juan and Enrique
- * Date              : Fri 08 Jan 2019
- */
+
 
 #include <stdio.h>
 

@@ -1,8 +1,3 @@
-	/**
-* File              : vc_strlowcase.c
-* Author            : Juan Valencia, Hao-tse
-* Date              : Thursday Feb 07 2019
-*/
 
 #include <stdio.h>
 
@@ -33,10 +28,3 @@ char *vc_tolower(char *str)
 
 }
 
-int main()
-{
-
-	char *str = "Ahello";
-	printf("%s", vc_strlowcase(str));
-
-}

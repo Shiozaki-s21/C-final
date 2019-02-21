@@ -1,5 +1,4 @@
-#include "pch.h"
-#include "vc_strnew.h"
+
 #include <stdio.h>
 
 

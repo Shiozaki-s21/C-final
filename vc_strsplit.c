@@ -1,8 +1,4 @@
-/**
- * File              : vc_split.c
- * Author            : Juan and Kazuya
- * Date              : Tue 12 Feb 2019
- */
+
 #include <stdio.h>
 
 static int compare_char_set(char c, char *charset) {

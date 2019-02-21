@@ -1,8 +1,4 @@
-/**
-* File              : vc_strupcase.c
-* Author            : Juan Valencia, Hao-tse
-* Date              : Thursday Feb 07 2019
-*/
+
 
 #include <stdio.h>
 

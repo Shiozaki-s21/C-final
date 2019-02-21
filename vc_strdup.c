@@ -1,8 +1,4 @@
-/**
- * File              : vc_strdup.c
- * Author            : Juan and Kazuya
- * Date              : Tue 12 Feb 2019
- */
+
 #include <stdlib.h>
 
 char *vc_strdup(char *src){

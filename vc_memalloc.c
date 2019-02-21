@@ -1,5 +1,4 @@
-#include "pch.h"
-#include "vc_memalloc.h"
+
 #include <stdlib.h>
 
 

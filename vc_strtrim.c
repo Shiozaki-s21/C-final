@@ -1,5 +1,4 @@
-#include "pch.h"
-#include "vc_strtrim.h"
+
 #include <stdio.h>
 
 char *vc_strtrim(char const *s) {
