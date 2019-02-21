@@ -6,7 +6,7 @@
 void* vc_memalloc(size_t size) {
 
 	void* result = malloc(size);
-	if (result = NULL) {
+	if (result == NULL) {
 		return NULL;
 	}
 	for (int i = 0; i < size; i++) {
